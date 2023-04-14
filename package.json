@@ -1,0 +1,24 @@
+{
+  "name": "cameranetworks",
+  "version": "1.0.0",
+  "description": "CameraNetworks consist of multiple cameras. This is CRUD  Operation on CameraNetworks and cameras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitkumar37565/CameraNetworks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitkumar37565/CameraNetworks/issues"
+  },
+  "homepage": "https://github.com/ankitkumar37565/CameraNetworks#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
